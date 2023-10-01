@@ -167,4 +167,4 @@ def handle_private(message,chatid,msgid):
 		bot.delete_messages(message.chat.id,[smsg.id])
 
 
-bot.run())
+bot.run()

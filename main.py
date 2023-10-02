@@ -12,7 +12,7 @@ headers = {
      'User-Agent': 'com.tappz.aichat/1.2.2 iPhone/15.6.1 hw/iPhone8_2',
      'Content-Type': 'application/json',
      'Accept-Language': 'en-GB,en;q=0.9'}
-Your_Bot = "5768629238:AAGaXMJ2kN1KHKymd3TBfsZzOHdWdK4HVWI"
+Your_Bot = "5768629238:AAEkGrNPIWlJJqReIy0aUEqYJA68LuHqiUU"
 bot = telebot.TeleBot(Your_Bot)
 
 @bot.message_handler(commands=['start'])
